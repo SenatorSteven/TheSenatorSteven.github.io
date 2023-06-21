@@ -8,11 +8,3 @@
 		html, body, .appMount-2yBXZl, .appAsidePanelWrapper-ev4hlp, .notAppAsidePanel-3yzkgB, .app-3xd6d0, .app-2CXKsg, .bg-1QIAus, .layers-OrUESM.layers-1YQhyW, .layer-86YKbF.baseLayer-W6S8cY, .container-1eFtFS{
 			background-color: rgba(  0,   0,   0, 0.00);
 		}
-
-	/* app padding (don't know why this works on this here element) */
-		#app-mount .layer-86YKbF{
-			top:    var(--window-padding);
-			bottom: var(--window-padding);
-			left:   var(--window-padding);
-			right:  var(--window-padding);
-		}
